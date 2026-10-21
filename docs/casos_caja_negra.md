@@ -29,11 +29,11 @@
 **Resultado esperado:**
 El sistema permite el acceso y muestra el catálogo de productos.
 
-**Resultado obtenido:** Pendiente de ejecución.
+**Resultado obtenido:** Se inició sesión correctamente y se visualizó el catálogo de productos.
 
-**Estado:** Pendiente.
+**Estado:** APROBADO
 
-**Evidencia:** Pendiente.
+**Evidencia:** evidencias/capturas/TC-001.png
 
 ---
 
@@ -56,11 +56,11 @@ El sistema permite el acceso y muestra el catálogo de productos.
 **Resultado esperado:**
 El sistema rechaza el acceso y muestra un mensaje de error.
 
-**Resultado obtenido:** Pendiente de ejecución.
+**Resultado obtenido:** El sistema rechazó el acceso y mostró: Epic sadface: Username and password do not match any user in this service.
 
-**Estado:** Pendiente.
+**Estado:** APROBADO
 
-**Evidencia:** Pendiente.
+**Evidencia:** evidencias/capturas/TC-002.png
 
 ---
 
@@ -83,11 +83,11 @@ El sistema rechaza el acceso y muestra un mensaje de error.
 **Resultado esperado:**
 El producto se agrega al carrito y el indicador refleja una unidad.
 
-**Resultado obtenido:** Pendiente de ejecución.
+**Resultado obtenido:** El botón cambió a Remove y el indicador del carrito muestra 1.
 
-**Estado:** Pendiente.
+**Estado:** APROBADO
 
-**Evidencia:** Pendiente.
+**Evidencia:** evidencias/capturas/TC-003.png
 
 ---
 
@@ -110,11 +110,11 @@ El producto se agrega al carrito y el indicador refleja una unidad.
 **Resultado esperado:**
 El producto desaparece del carrito y el indicador se actualiza según corresponda.
 
-**Resultado obtenido:** Pendiente de ejecución.
+**Resultado obtenido:** El botón volvió a Add to cart y desapareció el indicador numérico del carrito.
 
-**Estado:** Pendiente.
+**Estado:** APROBADO
 
-**Evidencia:** Pendiente.
+**Evidencia:** evidencias/capturas/TC-004.png
 
 ---
 
@@ -140,8 +140,8 @@ El producto desaparece del carrito y el indicador se actualiza según correspond
 **Resultado esperado:**
 El sistema impide continuar y muestra un mensaje de validación.
 
-**Resultado obtenido:** Pendiente de ejecución.
+**Resultado obtenido:** El sistema impidió continuar y mostró Error: First Name is required.
 
-**Estado:** Pendiente.
+**Estado:** APROBADO
 
-**Evidencia:** Pendiente.
+**Evidencia:** evidencias/capturas/TC-005.png
